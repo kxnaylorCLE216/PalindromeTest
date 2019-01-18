@@ -25,8 +25,6 @@
 	<groupId>TestFramework</groupId>
 	<artifactId>TestFramework</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<scope>system</scope>
-    <systemPath>${basedir}/src/main/java/lib/TestFramework-0.0.1-SNAPSHOT.jar</systemPath>
 </dependency>
   	<dependency>
   		<groupId>junit</groupId>
