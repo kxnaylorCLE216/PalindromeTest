@@ -1,2 +1,2 @@
 The count of the visible Palindromes
-59
+53

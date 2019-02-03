@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: AutomatedTests.AutomatedTests.LoginTests
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.076 s - in AutomatedTests.AutomatedTests.LoginTests
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.995 s - in AutomatedTests.AutomatedTests.LoginTests
