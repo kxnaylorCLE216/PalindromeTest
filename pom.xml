@@ -6,16 +6,13 @@
   <artifactId>AutomatedTests</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-
   <name>AutomatedTests</name>
   <url>http://maven.apache.org</url>
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
   </properties>
-
   <dependencies>
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 	<dependency>
@@ -69,8 +66,7 @@
         <version>3.0.0-M3</version>
       </dependency>
     </dependencies>
-    
-  </plugin>
+   </plugin>
 </plugins>
   </build> 
 </project>
